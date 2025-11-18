@@ -127,6 +127,7 @@ export const DATA = {
       logoUrl: "/prodigy_infotech_logo.jpeg",
       start: "May 2025",
       end: "Jun 2025",
+      description: ""
     },
   ],
 
