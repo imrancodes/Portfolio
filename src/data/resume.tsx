@@ -119,16 +119,6 @@ export const DATA = {
       description:
         "Worked on building a medical platform, creating responsive and user-friendly features using React, TypeScript, and TailwindCSS. Collaborated closely with backend engineers and designers to deliver smooth user experiences, while learning to ship clean, scalable code under deadlines.",
     },
-    {
-      company: "Prodigy InfoTech",
-      href: "https://prodigyinfotech.dev/",
-      location: "Mumbai, India",
-      title: "Web Developer (Intern)",
-      logoUrl: "/prodigy_infotech_logo.jpeg",
-      start: "May 2025",
-      end: "Jun 2025",
-      description: ""
-    },
   ],
 
   education: [
