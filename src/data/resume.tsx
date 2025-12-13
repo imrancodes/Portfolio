@@ -1,7 +1,7 @@
 import { Icons } from "@/components/icons";
 import { Contact, HomeIcon, Quote, View } from "lucide-react";
 const resumeUrl =
-  "https://drive.google.com/file/d/1tR-Iv7HeEnFSyDJeoh56NsUSYrRRS_ks/view";
+  "https://drive.google.com/file/d/16UlKdpWRoD726Uz_0EnUTN3lIYI-Zsv4/view";
 export const DATA = {
   name: "Imran Khan",
   initials: "IK",
@@ -55,6 +55,7 @@ export const DATA = {
     // Tooling & Build
     "Git",
     "GitHub",
+    "Docker",
     "Vite",
     "ESLint",
     "Prettier",
