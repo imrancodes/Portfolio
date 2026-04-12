@@ -110,6 +110,15 @@ export const DATA = {
 
   work: [
     {
+      company: "Forescribe",
+      href: "https://www.forescribe.ai/",
+      location: "Haryana, India",
+      title: "Frontend Engineer (Intern)",
+      logoUrl: "/forescribe.jfif",
+      start: "Dec 2025",
+      end: "Present",
+    },
+    {
       company: "Medos",
       href: "https://medos.one",
       location: "Delhi, India",
@@ -145,7 +154,7 @@ export const DATA = {
   projects: [
     {
       title: "Medos - Complete Healthcare Appointment Management",
-      href: "https://dev.medos.one/dashboard",
+      href: "https://app.medos.one/dashboard",
       active: true,
       category: "Professional",
       description:
@@ -162,25 +171,25 @@ export const DATA = {
       ],
     },
     {
-      title: "Medos Landing & Marketing Pages",
-      href: "https://medos.one",
+      title: "Forescribe – AI-Powered Software Asset Management SaaS",
+      href: "https://app.forescribe.ai",
       active: true,
       category: "Professional",
       description:
-        "Designed and developed high-conversion landing and marketing pages for Medos. Implemented responsive layouts, optimized for SEO and performance, with engaging animations and clear CTAs to drive lead generation.",
+        "Contributed to the frontend development of a scalable SaaS platform focused on Software Asset Management and governance. Built responsive, production-ready UI using Next.js, ensuring performance, maintainability, and clean component architecture. Integrated APIs to enable real-time data visualization, software usage tracking, and spend insights. Collaborated on delivering features that provide businesses with clear visibility into their software ecosystem, helping reduce costs, eliminate redundancies, and improve operational efficiency. Focused on building reusable components, optimizing rendering performance, and maintaining a consistent design system across the application.",
       technologies: [
-        "React",
         "Next.js",
         "Tailwind CSS",
-        "SEO",
+        "API Integration",
+        "SaaS UI",
         "Performance Optimization",
       ],
-      dates: "2025 - 2025",
-      image: "/professional-work/medos-landing-page.png",
+      dates: "2025 - present",
+      image: "/professional-work/forescribe.png",
       links: [
         {
           type: "Website",
-          href: "https://medos.one",
+          href: "https://app.forescribe.ai",
           icon: <Icons.globe className="size-3" />,
         },
       ],
