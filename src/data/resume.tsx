@@ -1,7 +1,7 @@
 import { Icons } from "@/components/icons";
 import { Contact, HomeIcon, Quote, View } from "lucide-react";
 const resumeUrl =
-  "https://drive.google.com/file/d/16UlKdpWRoD726Uz_0EnUTN3lIYI-Zsv4/view";
+  "https://drive.google.com/file/d/1CeYrJgGJA2prKIQCjI90RE0GJBLpbAub/view";
 export const DATA = {
   name: "Imran Khan",
   initials: "IK",
@@ -117,6 +117,8 @@ export const DATA = {
       logoUrl: "/forescribe.jfif",
       start: "Dec 2025",
       end: "Present",
+      description:
+        "Built and enhanced a scalable SaaS platform for software asset management. Developed responsive UI using Next.js, integrated APIs for real-time data insights, and focused on performance optimization and reusable component architecture.",
     },
     {
       company: "Medos",
