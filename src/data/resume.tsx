@@ -113,7 +113,7 @@ export const DATA = {
       company: "Forescribe",
       href: "https://www.forescribe.ai/",
       location: "Haryana, India",
-      title: "Frontend Engineer (Intern)",
+      title: "SDE 1 (Frontend)",
       logoUrl: "/forescribe.jfif",
       start: "Dec 2025",
       end: "Present",
