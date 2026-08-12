@@ -1,7 +1,7 @@
 import { Icons } from "@/components/icons";
 import { Contact, HomeIcon, Quote, View } from "lucide-react";
 const resumeUrl =
-  "https://drive.google.com/file/d/1N9N4iFOMNUP96MEd-hfxP2-3aLj3nkPn/view";
+  "https://drive.google.com/file/d/1nDYzFMbK-6PQcf-5-fTZDNbq6Afoz-lC/view?usp=drive_link";
 export const DATA = {
   name: "Imran Khan",
   initials: "IK",
@@ -30,6 +30,7 @@ export const DATA = {
 
     // Languages
     "Python",
+    "SQL",
 
     // State Management & APIs
     "Redux Toolkit",
@@ -38,10 +39,13 @@ export const DATA = {
     "REST APIs",
     "Axios",
     "TanStack Query",
+    "Zod",
+    "Zustand",
 
     // Backend & AI Systems
     "Node.js",
     "Express.js",
+    "Nest.js",
     "Socket.io",
     "JWT Authentication",
     "OAuth 2.0",
@@ -51,6 +55,9 @@ export const DATA = {
     "Mongoose",
     "Firebase",
     "Appwrite",
+    "Redis",
+    "Prisma",
+    "PostgreSQL",
 
     // Tooling & Build
     "Git",
@@ -63,6 +70,8 @@ export const DATA = {
     "Cursor IDE",
     "Vs code",
     "PyCharm",
+    "Docker",
+    "Linux",
 
     // Deployment
     "Vercel",
@@ -116,7 +125,7 @@ export const DATA = {
       title: "SDE 1 (Frontend)",
       logoUrl: "/forescribe.jfif",
       start: "Dec 2025",
-      end: "Present",
+      end: "Aug 2026",
       description:
         "Built and enhanced a scalable SaaS platform for software asset management. Developed responsive UI using Next.js, integrated APIs for real-time data insights, and focused on performance optimization and reusable component architecture.",
     },
@@ -124,7 +133,7 @@ export const DATA = {
       company: "Medos",
       href: "https://medos.one",
       location: "Delhi, India",
-      title: "Frontend Developer (Intern)",
+      title: "SDE Frontend (Intern)",
       logoUrl: "/medos.jpeg",
       start: "Jun 2025",
       end: "Sep 2025",
@@ -186,7 +195,7 @@ export const DATA = {
         "SaaS UI",
         "Performance Optimization",
       ],
-      dates: "2025 - present",
+      dates: "2025 - Aug 2026",
       image: "/professional-work/forescribe.png",
       links: [
         {
